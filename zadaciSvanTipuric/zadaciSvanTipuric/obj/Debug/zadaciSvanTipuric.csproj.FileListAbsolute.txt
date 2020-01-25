@@ -1,0 +1,12 @@
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\bin\Debug\zadaciSvanTipuric.exe.config
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\bin\Debug\zadaciSvanTipuric.exe
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\bin\Debug\zadaciSvanTipuric.pdb
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.Form1.resources
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.exe
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.pdb
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.RadioBotonKontrola.resources
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.DateTimePickerKontrola.resources
+C:\Users\Korisnik\source\repos\zadaciSvanTipuric\zadaciSvanTipuric\obj\Debug\zadaciSvanTipuric.MonthKalendarKontrola.resources
